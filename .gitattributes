@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+android/app/src/main/cpp/opus/** linguist-vendored
+android/app/src/main/cpp/oboe/** linguist-vendored
